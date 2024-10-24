@@ -15,7 +15,7 @@ dev-dependencies = [
 ]
 
 [project.scripts]
-hello="hello:main"
+ghdash="main:entrypoint"
 
 [build-system]
 requires = ["hatchling"]
