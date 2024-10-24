@@ -1,0 +1,9 @@
+Screen {
+    layout: horizontal;
+    overflow-x: auto;
+}
+
+.thing {
+    width: 1fr;
+    height: 100%;
+}
